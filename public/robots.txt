@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hesa-wellness-spa-ubud-29ea0c86.zappy5.app/sitemap.xml
